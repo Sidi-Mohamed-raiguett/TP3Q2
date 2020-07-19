@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP3Q2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="invalide">invalide!</string>
+    <string name="back">Back</string>
+</resources>
